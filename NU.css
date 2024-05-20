@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FEDD59;
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+.bawah{
+    text-decoration: dotted;
+    background-color: #d9d9d9;
+}
+.total{
+    text-decoration: solid;
+}
+.debit{
+    text-decoration: underline;
+}
+.kredit{
+    text-decoration: underline;
+}
